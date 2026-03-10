@@ -53,6 +53,19 @@ The application then generates ranked number combinations based on those paramet
 
 ---
 
+# ▶️ Running the Application
+
+1. Install dependencies
+
+pip install -r requirements.txt
+
+2. Run the Streamlit app
+
+streamlit run app.py
+
+---
+
+
 # 📂 Project Structure
 
 lottery-ml-analyzer
