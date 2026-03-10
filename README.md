@@ -81,7 +81,7 @@ lottery-ml-analyzer
 
 ## 🖥️ Application Preview
 
-
+![app_preview png](https://github.com/user-attachments/assets/81c1757f-ca69-4e2a-96e1-6754d2c9fc4a)
 
 The Streamlit interface allows users to explore historical lottery draw data,
 adjust analysis parameters, and generate suggested number combinations.
