@@ -54,7 +54,9 @@ The application then generates ranked number combinations based on those paramet
 ---
 
 # 📂 Project Structure
+
 lottery-ml-analyzer
+
 │
 ├── data
 │ └── lottery_data.csv
